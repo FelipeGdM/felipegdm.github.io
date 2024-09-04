@@ -244,6 +244,10 @@ header {
 .post-metadata time {
 	margin-right: 1em;
 }
+.post-time {
+	display: block;
+	margin-bottom: .1em;
+}
 
 /* Direct Links / Markdown Headers */
 .header-anchor {
